@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/queraltsm.github.io/static/css/main.f855e6bc.css",
+    "main.js": "/queraltsm.github.io/static/js/main.220d31bf.js",
+    "static/js/453.6f3e3543.chunk.js": "/queraltsm.github.io/static/js/453.6f3e3543.chunk.js",
+    "static/media/logo.svg": "/queraltsm.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/queraltsm.github.io/index.html",
+    "main.f855e6bc.css.map": "/queraltsm.github.io/static/css/main.f855e6bc.css.map",
+    "main.220d31bf.js.map": "/queraltsm.github.io/static/js/main.220d31bf.js.map",
+    "453.6f3e3543.chunk.js.map": "/queraltsm.github.io/static/js/453.6f3e3543.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.220d31bf.js"
+  ]
+}
