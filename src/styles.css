@@ -1,0 +1,75 @@
+.skills-section {
+    padding: 2rem;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .skills-title {
+    text-align: center;
+    margin-bottom: 1.5rem;
+    font-size: 2rem;
+    color: #333;
+  }
+  
+  .skills-category {
+    margin-bottom: 1.5rem;
+  }
+  
+  .category-title {
+    font-weight: bold;
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+    color: #555;
+  }
+  
+  .skill-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  
+  .skill-tag {
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+    font-size: 0.9rem;
+    cursor: pointer;
+    transition: transform 0.2s ease-in-out, background-color 0.2s ease-in-out;
+  }
+  
+  .skill-tag:hover {
+    transform: scale(1.05);
+  }
+  
+  /* Colores pastel para cada tag */
+  .pastel-pink {
+    background-color: #ffccd5; /* Rosa pastel */
+    color: #6a1b4d;
+  }
+  
+  .pastel-blue {
+    background-color: #cce5ff; /* Azul pastel */
+    color: #0056b3;
+  }
+  
+  .pastel-green {
+    background-color: #ccffcc; /* Verde pastel */
+    color: #1b5e20;
+  }
+  
+  .pastel-yellow {
+    background-color: #fff9c4; /* Amarillo pastel */
+    color: #827717;
+  }
+  
+  .pastel-purple {
+    background-color: #e1bee7; /* Morado pastel */
+    color: #6a1b9a;
+  }
+  
+  .pastel-orange {
+    background-color: #ffe0b2; /* Naranja pastel */
+    color: #e65100;
+  }
+  
